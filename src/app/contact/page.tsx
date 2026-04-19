@@ -120,8 +120,7 @@ export default function ContactPage() {
 
           {submitted && (
             <p className="mt-3 text-xs text-emerald-400">
-              Thanks—your request has been recorded. Replace this with a real confirmation
-              once you wire up the backend.
+              Thanks for your request. It has been recorded.
             </p>
           )}
         </form>
