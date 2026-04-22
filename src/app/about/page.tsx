@@ -35,14 +35,14 @@ export default function AboutPage() {
               <li>• Clear communication and straightforward pricing</li>
             </ul>
           </div>
-          <div className="rounded-xl border border-slate-800 bg-slate-900/60 p-5">
+          {/* <div className="rounded-xl border border-slate-800 bg-slate-900/60 p-5">
             <h3 className="text-sm font-semibold text-slate-100 mb-3">
               Credentials
             </h3>
             <p className="text-xs text-slate-400">
               Add your license number(s), certifications, and coverage details here.
             </p>
-          </div>
+          </div> */}
         </div>
       </div>
     </section>
