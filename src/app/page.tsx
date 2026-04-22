@@ -28,7 +28,7 @@ export default function HomePage() {
           </p>
           <div className="mt-6 flex flex-wrap gap-4">
             <Link
-              href="/contact"
+              href="/quote"
               className="rounded-md bg-brand-blue px-6 py-3 text-sm font-medium text-white hover:bg-blue-600 transition-colors"
             >
               Request a Quote

@@ -47,7 +47,7 @@ export function Navbar() {
           })}
 
           <Link
-            href="/contact"
+            href="/quote"
             className="rounded-md bg-brand-blue px-4 py-2 text-sm font-medium text-white hover:bg-blue-600 transition-colors"
           >
             Request a Quote
